@@ -8,4 +8,4 @@ I then exported the cleaned data to SSMS for further querying and analysis to ad
 
 Following that, I created an interactive report using Power BI
 
-Finally, I documented my key observations and recommendations in the Customer Shopping Behaviour Report
+Finally, I documented my key observations and recommendations in the [Customer Shopping Behaviour Report]('https://github.com/varshanookarapu/Customer_Shopping_Behaviour_Analysis_Python/blob/main/Customer%20Shopping%20Behavior%20Report.docx')
